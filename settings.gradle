@@ -1,0 +1,3 @@
+rootProject.name = 'SagaAxonSpringBoot'
+
+include "CommonService", 'OrderService3', 'PaymentService', 'ShipmentService','UserService'
